@@ -1,3 +1,11 @@
 nginx
 traefik
 python:3.11-alpine
+portainer/portainer-ce
+prom/prometheus
+grafana/grafana
+mysql
+postgres
+xibosignage/xibo-cms
+xibosignage/xibo-xmr
+camunda/camunda-bpm-platform
