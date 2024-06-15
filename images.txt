@@ -5,7 +5,11 @@ portainer/portainer-ce
 prom/prometheus
 grafana/grafana
 mysql
-postgres
+postgres:15-alpine
 xibosignage/xibo-cms
 xibosignage/xibo-xmr
 camunda/camunda-bpm-platform
+langgenius/dify-web
+langgenius/dify-api
+redis:6-alpine
+semitechnologies/weaviate
