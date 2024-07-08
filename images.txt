@@ -13,3 +13,4 @@ langgenius/dify-web
 langgenius/dify-api
 redis:6-alpine
 semitechnologies/weaviate
+mongo
