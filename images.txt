@@ -14,3 +14,5 @@ langgenius/dify-api
 redis:6-alpine
 semitechnologies/weaviate
 mongo
+bonitasoft/bonita-sqlserver
+mcr.microsoft.com/mssql/server:2022-latest
