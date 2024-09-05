@@ -5,7 +5,7 @@ portainer/portainer-ce
 prom/prometheus
 grafana/grafana
 mysql
-postgres:15-alpine
+postgres:16-alpine
 xibosignage/xibo-cms
 xibosignage/xibo-xmr
 camunda/camunda-bpm-platform
