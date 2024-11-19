@@ -18,3 +18,4 @@ bonitasoft/bonita-sqlserver
 mcr.microsoft.com/mssql/server:2022-latest
 eclipse-temurin:11-jre-alpine
 eclipse-temurin:17-jre-alpine
+gcr.io/cadvisor/cadvisor
